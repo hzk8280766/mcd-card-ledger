@@ -1,0 +1,19 @@
+{
+  "mcp_token": "把 open.mcd.cn 申请到的 MCP Token 粘贴到这里（不要提交含真实 Token 的文件！）",
+  "analysis_days": 90,
+  "card_params": {
+    "gold_month": {
+      "price": 19.9,
+      "period_days": 30,
+      "delivery_fee_saved": 6.0,
+      "set_meal_save_per_order": 7.0,
+      "set_meal_hit_rate": 0.3
+    },
+    "breakfast_dual": {
+      "price": 15.8,
+      "period_days": 60,
+      "save_per_order_low": 5.0,
+      "save_per_order_high": 8.6
+    }
+  }
+}
